@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este repositorio es solamente para entender que estoy haciendo 
+apenas entiendo que estoy haciendo pero yo sigo los pasos del loco del prepcouse
+
